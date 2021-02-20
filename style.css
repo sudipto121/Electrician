@@ -1,0 +1,124 @@
+/* Hero CSS */
+#hero-section{
+    background-image: url(images/writing.jpg);
+}
+.hero-card{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.hero-content{
+    color: #FFFFFF;
+}
+
+/*Form CSS*/
+#form{
+    background-color: #ECEDEF;
+    margin: 10px;
+    padding: 30px;
+}
+#button{
+    background-color: #FFFFFF;
+    color: #389DE0;
+    border-radius: 0%;
+    margin-top: 50px;
+}
+#button:hover{
+    background-color: #636e72;
+    color: #FFFFFF;
+    border-radius: 0%;
+    margin-top: 50px;
+}
+
+/*Dedicated Section CSS*/
+#d-button{
+    background-color: #389DE0;
+    color: #FFFFFF;
+    border-radius: 0%;
+    margin-top: 50px;
+}
+#d-button:hover{
+    background-color: #636e72;
+    color: #FFFFFF;
+    border-radius: 0%;
+    margin-top: 50px;
+}
+#dedicated-section{
+    padding-bottom: 20px;
+}
+
+/*Service Section CSS*/
+.residential{
+    background-image: url(images/residential.jpg);
+}
+.commercial{
+    background-image: url(images/commercial.jpg);
+}
+.industrial{
+    background-image: url(images/industrial.jpg);
+}
+.residential,.commercial,.industrial{
+    color: #FFFFFF;
+    padding: 30px;
+}
+
+/*Install Section CSS*/
+.install-section{
+    background-color: #ECEDEF;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+/*Why Choose Us Section CSS*/
+.why-choose-us{
+    padding-bottom: 100px;
+    padding-top: 100px;
+}
+.secure{
+    background-image: url(images/weld.jpg);
+}
+.support{
+    background-image: url(images/weld.jpg);
+}
+.cost{
+    background-image: url(images/weld.jpg);
+}
+.secure,.support,.cost{
+    color: #FFFFFF;
+    margin: 5px;
+}
+
+/*Quote Section CSS*/
+.quote{
+    background-color: #1C93E2;
+    padding: 90px;
+    color: #FFFFFF;
+} 
+
+/*useful-link-section*/
+.useful-link-section{
+    background-color: #F6F6F8;
+    padding: 100px;
+}
+a{
+    text-decoration: none;
+    color: #000;
+}
+a:hover{
+    text-decoration: none;
+    color: #000;
+}
+.links{
+    background-color: #576574;
+    padding: 10px;
+    color: #FFFFFF;
+}
+.links:hover{
+    background-color: #34ace0;
+    color: #FFFFFF;
+}
+/*Footer CSS*/
+.footer{
+    background-color: #2c3e50;
+    padding: 50px;
+    color: #FFFFFF;
+}
